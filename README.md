@@ -1,4 +1,4 @@
-# Maquina_de_lavar
+# Máquina de lavar
 
 Projeto feito no video: https://youtu.be/oNeWcrsabP8
 
